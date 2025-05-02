@@ -1,8 +1,8 @@
 import React from "react";
-import Home from "./pages/Home";
+import Router from "./Router";
 
 const App = () => {
-  return <Home />;
+  return <Router />;
 };
 
 export default App;
